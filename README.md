@@ -2,3 +2,4 @@
 This is a sample repo, hellow world!
 #.md=MarkDown file
 # Test
+Making changes in Git directly
